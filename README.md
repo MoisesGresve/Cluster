@@ -38,6 +38,7 @@ Para el *script*, se recomienda realizar modificaciones únicamente en las sigui
     - `-i S_F.in`: Indica el archivo de entrada de la simulación.
     - `-o Example.txt`: Establece el nombre del archivo de salida de la simulación.
 
-[referencia1]: URL_de_referencia1
-[referencia2]: URL_de_referencia2
+[referencia1]: https://users.exa.unicen.edu.ar/catedras/arqui2/arqui2/filminas/Introduccion%20a%20las%20arquitecturas%20Paralelas.pdf
+[referencia2]: https://openaccess.uoc.edu/bitstream/10609/79549/3/Arquitecturas%20de%20computadores%20avanzadas_M%C3%B3dulo%201_Introducci%C3%B3n%20a%20las%20arquitecturas%20paralelas.pdf
+
 
