@@ -6,12 +6,10 @@
 #SBATCH -n 16
 ####SBATCH -w compute-0-1
 ####SBATCH -w compute-0-2
-
 #############################
 export Project=Example
 #############################
 module load ansys/v212
-###export PARAMS="--mca btl vader,self"
 export WORKDIR=${SLURM_SUBMIT_DIR}
 
 cd $WORKDIR
